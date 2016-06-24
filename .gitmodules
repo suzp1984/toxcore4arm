@@ -4,3 +4,9 @@
 [submodule "libsodium"]
 	path = libsodium
 	url = https://github.com/jedisct1/libsodium.git
+[submodule "opus"]
+	path = opus
+	url = https://github.com/suzp1984/opus.git
+[submodule "libvpx"]
+	path = libvpx
+	url = https://github.com/suzp1984/libvpx.git
